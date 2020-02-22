@@ -1,13 +1,14 @@
 # JavaScript Functions CW
-
-### Problem 1
+#### Nice solutions, could use more useful comments
+#### Score : 5
+### Problem 1 CORRECT
 
 Create a ```printNumbers``` function to print integers from -25 to 20.
 
-### Problem 2
+### Problem 2 CORRECT
 Create a function that’s passed a firstName and lastName. Return lastName comma firstName.
 
-### Problem 3
+### Problem 3 CORRECT
 Create a function in your program that counts from 0 to [NUMBER]
 
 ### Problem 4
